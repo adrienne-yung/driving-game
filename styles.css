@@ -1,0 +1,10 @@
+.container {
+  width: 900px;
+  margin: auto;
+  background-color: aqua;
+  height: 550px;
+}
+
+img {
+  width: 100px;
+}
